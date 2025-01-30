@@ -30,9 +30,12 @@
    },
    "info": {
       "minutes": "minuty",
-      "seconds": "sekundy.."
+      "seconds": "sekundy..",
+      "shuffleSeat": "Shuffle seat",
+      "teleport_level_select": "Go To Level #%s",
+      "teleport_current_level_indication": "(You're Here)"
    },
    "actions": {
-      "push_vehicle": "Naciśnij [~g~SHIFT~w~] i [~g~E~w~], aby pchać pojazd aż do zwolnienia [~g~SHIFT~w~]"   
+      "push_vehicle": "Naciśnij [~g~SHIFT~w~] i [~g~E~w~], aby pchać pojazd aż do zwolnienia [~g~SHIFT~w~]"
    }
 }

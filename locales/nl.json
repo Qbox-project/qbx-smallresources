@@ -33,7 +33,9 @@
    "info": {
       "minutes": "minuten",
       "seconds": "seconden..",
-      "shuffleSeat": "Ga ergens anders zitten"
+      "shuffleSeat": "Ga ergens anders zitten",
+      "teleport_level_select": "Ga Naar Verdieping #%s",
+      "teleport_current_level_indication": "(Jij Bent Hier)"
    },
    "actions": {
       "push_vehicle": "Druk up [~g~SHIFT~w~] en [~g~E~w~] om je voertuig te duwen totdat je [~g~SHIFT~w~] loslaat",

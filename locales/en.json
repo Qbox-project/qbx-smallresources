@@ -33,7 +33,9 @@
    "info": {
       "minutes": "minutes",
       "seconds": "seconds..",
-      "shuffleSeat": "Shuffle seat"
+      "shuffleSeat": "Shuffle seat",
+      "teleport_level_select": "Go To Level #%s",
+      "teleport_current_level_indication": "(You're Here)"
    },
    "actions": {
       "push_vehicle": "Press [~g~SHIFT~w~] and [~g~E~w~] to push the vehicle until [~g~SHIFT~w~] release",

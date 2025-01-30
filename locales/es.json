@@ -33,7 +33,9 @@
    "info": {
       "minutes": "minutos",
       "seconds": "segundos",
-      "shuffleSeat": "Cambiar de asiento"
+      "shuffleSeat": "Cambiar de asiento",
+      "teleport_level_select": "Go To Level #%s",
+      "teleport_current_level_indication": "(You're Here)"
    },
    "actions": {
       "push_vehicle": "Presiona [~g~SHIFT~w~] y [~g~E~w~] para empujar el vehículo hasta soltar [~g~SHIFT~w~]",

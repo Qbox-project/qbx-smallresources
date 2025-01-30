@@ -1,42 +1,44 @@
 {
     "error": {
-       "canceled": "Annulleret..",
-       "cruise_control_disabled": "Fartpilot deaktiveret",
-       "cruise_control_unavailable": "Fartpilot ikke tilgængelig",
-       "deleted_recording": "Optagelse slettet!",
-       "later_aligator": "Vi ses senere, alligator!",
-       "stress_gain": "Føler mig mere stresset!",
-       "no_vehicle_nearby": "Intet køretøj i nærheden at vælte.",
-       "is_handcuffed": "Du er i håndjern.",
-       "is_fastened": "Du har sikkerhedssele på."
+        "canceled": "Annulleret..",
+        "cruise_control_disabled": "Fartpilot deaktiveret",
+        "cruise_control_unavailable": "Fartpilot ikke tilgængelig",
+        "deleted_recording": "Optagelse slettet!",
+        "later_aligator": "Vi ses senere, alligator!",
+        "stress_gain": "Føler mig mere stresset!",
+        "no_vehicle_nearby": "Intet køretøj i nærheden at vælte.",
+        "is_handcuffed": "Du er i håndjern.",
+        "is_fastened": "Du har sikkerhedssele på."
     },
     "success": {
-       "cruise_control_enabled": "Fartpilot aktiveret",
-       "started_recording": "Optagelse startet!",
-       "stopped_recording": "Optagelse stoppet!",
-       "saved_recording": "Optagelse gemt!",
-       "stress_relief": "Føler mig mere afslappet!",
-       "flipped_car": "Køretøj væltet med succes!"
+        "cruise_control_enabled": "Fartpilot aktiveret",
+        "started_recording": "Optagelse startet!",
+        "stopped_recording": "Optagelse stoppet!",
+        "saved_recording": "Optagelse gemt!",
+        "stress_relief": "Føler mig mere afslappet!",
+        "flipped_car": "Køretøj væltet med succes!"
     },
     "progress": {
-       "eating": "Spiser..",
-       "drinking": "Drikker..",
-       "drinking_liquor": "Drikker alkohol..",
-       "quick_sniff": "Hurtig snif..",
-       "smoking_crack": "Ryger crack..",
-       "popping_pills": "Sluger piller..",
-       "healing": "Helbreder..",
-       "smoking_meth": "Ryger meth..",
-       "lighting_joint": "Tænder joint..",
-       "flipping_car": "Vælter køretøj..."
+        "eating": "Spiser..",
+        "drinking": "Drikker..",
+        "drinking_liquor": "Drikker alkohol..",
+        "quick_sniff": "Hurtig snif..",
+        "smoking_crack": "Ryger crack..",
+        "popping_pills": "Sluger piller..",
+        "healing": "Helbreder..",
+        "smoking_meth": "Ryger meth..",
+        "lighting_joint": "Tænder joint..",
+        "flipping_car": "Vælter køretøj..."
     },
     "info": {
-       "minutes": "Minutter",
-       "seconds": "Sekunder..",
-       "shuffleSeat": "Skift sæde"
+        "minutes": "Minutter",
+        "seconds": "Sekunder..",
+        "shuffleSeat": "Skift sæde",
+        "teleport_level_select": "Go To Level #%s",
+        "teleport_current_level_indication": "(You're Here)"
     },
     "actions": {
-       "push_vehicle": "Tryk [~g~SHIFT~w~] og [~g~E~w~] for at skubbe køretøjet, indtil [~g~SHIFT~w~] slippes",
-       "toggle_cruise_control": "Skift fartpilot"
+        "push_vehicle": "Tryk [~g~SHIFT~w~] og [~g~E~w~] for at skubbe køretøjet, indtil [~g~SHIFT~w~] slippes",
+        "toggle_cruise_control": "Skift fartpilot"
     }
- }
+}

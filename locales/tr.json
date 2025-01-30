@@ -1,42 +1,44 @@
 {
-   "error": {
-      "canceled": "İptal edildi..",
-      "cruise_control_disabled": "Hız sabitleyici devre dışı bırakıldı",
-      "cruise_control_unavailable": "Hız sabitleyici kullanılamıyor",
-      "deleted_recording": "Kayıt silindi!",
-      "later_aligator": "Görüşürüz timsah!",
-      "stress_gain": "Daha stresli hissediyorsun!",
-      "no_vehicle_nearby": "Yakında çevrilebilecek bir araç yok.",
-      "is_handcuffed": "Kelepçelisin.",
-      "is_fastened": "Emniyet kemeri taktın."
-   },
-   "success": {
-      "cruise_control_enabled": "Hız sabitleyici etkinleştirildi",
-      "started_recording": "Kayıt başlatıldı!",
-      "stopped_recording": "Kayıt durduruldu!",
-      "saved_recording": "Kayıt kaydedildi!",
-      "stress_relief": "Daha rahat hissediyorsun!",
-      "flipped_car": "Araç başarıyla çevrildi!"
-   },
-   "progress": {
-       "eating": "Yemek yiyorsun..",
-       "drinking": "İçiyorsun..",
-       "drinking_liquor": "Alkol içiyorsun..",
-       "quick_sniff": "Hızlıca kokluyorsun..",
-       "smoking_crack": "Crack içiyorsun..",
-       "popping_pills": "Hap yutuyorsun..",
-       "healing": "İyileşiyorsun..",
-       "smoking_meth": "Met içiyorsun..",
-       "lighting_joint": "Sigara yakıyorsun..",
-       "flipping_car": "Aracı çeviriyorsun..."
-   },
-   "info": {
-      "minutes": "dakika",
-      "seconds": "saniye..",
-      "shuffleSeat": "Koltuğu değiştir"
-   },
-   "actions": {
-      "push_vehicle": "Aracı itmek için [~g~SHIFT~w~] ve [~g~E~w~] tuşlarına basın, [~g~SHIFT~w~] bırakılana kadar devam edin",
-      "toggle_cruise_control": "Hız sabitleyiciyi aç/kapat"
-   }
+    "error": {
+        "canceled": "İptal edildi..",
+        "cruise_control_disabled": "Hız sabitleyici devre dışı bırakıldı",
+        "cruise_control_unavailable": "Hız sabitleyici kullanılamıyor",
+        "deleted_recording": "Kayıt silindi!",
+        "later_aligator": "Görüşürüz timsah!",
+        "stress_gain": "Daha stresli hissediyorsun!",
+        "no_vehicle_nearby": "Yakında çevrilebilecek bir araç yok.",
+        "is_handcuffed": "Kelepçelisin.",
+        "is_fastened": "Emniyet kemeri taktın."
+    },
+    "success": {
+        "cruise_control_enabled": "Hız sabitleyici etkinleştirildi",
+        "started_recording": "Kayıt başlatıldı!",
+        "stopped_recording": "Kayıt durduruldu!",
+        "saved_recording": "Kayıt kaydedildi!",
+        "stress_relief": "Daha rahat hissediyorsun!",
+        "flipped_car": "Araç başarıyla çevrildi!"
+    },
+    "progress": {
+            "eating": "Yemek yiyorsun..",
+            "drinking": "İçiyorsun..",
+            "drinking_liquor": "Alkol içiyorsun..",
+            "quick_sniff": "Hızlıca kokluyorsun..",
+            "smoking_crack": "Crack içiyorsun..",
+            "popping_pills": "Hap yutuyorsun..",
+            "healing": "İyileşiyorsun..",
+            "smoking_meth": "Met içiyorsun..",
+            "lighting_joint": "Sigara yakıyorsun..",
+            "flipping_car": "Aracı çeviriyorsun..."
+    },
+    "info": {
+        "minutes": "dakika",
+        "seconds": "saniye..",
+        "shuffleSeat": "Koltuğu değiştir",
+        "teleport_level_select": "Seviye #%s'e Git",
+        "teleport_current_level_indication": "(Buradasın)"
+    },
+    "actions": {
+        "push_vehicle": "Aracı itmek için [~g~SHIFT~w~] ve [~g~E~w~] tuşlarına basın, [~g~SHIFT~w~] bırakılana kadar devam edin",
+        "toggle_cruise_control": "Hız sabitleyiciyi aç/kapat"
+    }
 }

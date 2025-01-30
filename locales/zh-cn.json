@@ -33,7 +33,9 @@
    "info": {
       "minutes": "分钟",
       "seconds": "秒..",
-      "shuffleSeat": "换座位"
+      "shuffleSeat": "换座位",
+      "teleport_level_select": "Go To Level #%s",
+      "teleport_current_level_indication": "(You're Here)"
    },
    "actions": {
       "push_vehicle": "按 [~g~SHIFT~w~] 和 [~g~E~w~] 推动车辆，直到松开 [~g~SHIFT~w~]",

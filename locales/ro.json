@@ -33,7 +33,9 @@
    "info": {
       "minutes": "minute",
       "seconds": "secunde..",
-      "shuffleSeat": "Schimbă locul"
+      "shuffleSeat": "Schimbă locul",
+      "teleport_level_select": "Go To Level #%s",
+      "teleport_current_level_indication": "(You're Here)"
    },
    "actions": {
       "push_vehicle": "Apasa [~g~SHIFT~w~] si [~g~E~w~] pentru a impinge vehiculul pana la eliberarea [~g~SHIFT~w~]",

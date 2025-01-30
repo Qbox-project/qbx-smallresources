@@ -1,43 +1,44 @@
 {
     "error": {
-       "canceled": "Cancelado..",
-       "cruise_control_disabled": "Controle de cruzeiro desativado",
-       "cruise_control_unavailable": "Controle de cruzeiro indisponível",
-       "deleted_recording": "Gravação excluída!",
-       "later_aligator": "Até mais, jacaré!",
-       "stress_gain": "Sentindo-se mais estressado!",
-       "no_vehicle_nearby": "Nenhum veículo próximo para virar.",
-       "is_handcuffed": "Você está algemado.",
-       "is_fastened": "Você está usando o cinto de segurança."
+        "canceled": "Cancelado..",
+        "cruise_control_disabled": "Controle de cruzeiro desativado",
+        "cruise_control_unavailable": "Controle de cruzeiro indisponível",
+        "deleted_recording": "Gravação excluída!",
+        "later_aligator": "Até mais, jacaré!",
+        "stress_gain": "Sentindo-se mais estressado!",
+        "no_vehicle_nearby": "Nenhum veículo próximo para virar.",
+        "is_handcuffed": "Você está algemado.",
+        "is_fastened": "Você está usando o cinto de segurança."
     },
     "success": {
-       "cruise_control_enabled": "Controle de cruzeiro ativado",
-       "started_recording": "Gravação iniciada!",
-       "stopped_recording": "Gravação interrompida!",
-       "saved_recording": "Gravação salva!",
-       "stress_relief": "Sentindo-se mais relaxado!",
-       "flipped_car": "Veículo virado com sucesso!"
+        "cruise_control_enabled": "Controle de cruzeiro ativado",
+        "started_recording": "Gravação iniciada!",
+        "stopped_recording": "Gravação interrompida!",
+        "saved_recording": "Gravação salva!",
+        "stress_relief": "Sentindo-se mais relaxado!",
+        "flipped_car": "Veículo virado com sucesso!"
     },
     "progress": {
-       "eating": "Comendo..",
-       "drinking": "Bebendo..",
-       "drinking_liquor": "Bebendo bebida alcoólica..",
-       "quick_sniff": "Cheirando rapidamente..",
-       "smoking_crack": "Fumando crack..",
-       "popping_pills": "Tomando pílulas..",
-       "healing": "Curando..",
-       "smoking_meth": "Fumando metanfetamina..",
-       "lighting_joint": "Acendendo o baseado..",
-       "flipping_car": "Virando veículo..."
+        "eating": "Comendo..",
+        "drinking": "Bebendo..",
+        "drinking_liquor": "Bebendo bebida alcoólica..",
+        "quick_sniff": "Cheirando rapidamente..",
+        "smoking_crack": "Fumando crack..",
+        "popping_pills": "Tomando pílulas..",
+        "healing": "Curando..",
+        "smoking_meth": "Fumando metanfetamina..",
+        "lighting_joint": "Acendendo o baseado..",
+        "flipping_car": "Virando veículo..."
     },
     "info": {
-       "minutes": "minutos",
-       "seconds": "segundos..",
-       "shuffleSeat": "Trocar de assento"
+        "minutes": "minutos",
+        "seconds": "segundos..",
+        "shuffleSeat": "Trocar de assento",
+        "teleport_level_select": "Go To Level #%s",
+        "teleport_current_level_indication": "(You're Here)"
     },
     "actions": {
-       "push_vehicle": "Pressione [~g~SHIFT~w~] e [~g~E~w~] para empurrar o veículo até soltar [~g~SHIFT~w~]",
-       "toggle_cruise_control": "Alternar Controle de Cruzeiro"
+        "push_vehicle": "Pressione [~g~SHIFT~w~] e [~g~E~w~] para empurrar o veículo até soltar [~g~SHIFT~w~]",
+        "toggle_cruise_control": "Alternar Controle de Cruzeiro"
     }
- }
- 
+}

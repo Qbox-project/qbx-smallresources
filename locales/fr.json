@@ -33,7 +33,9 @@
    "info": {
       "minutes": "minutes",
       "seconds": "secondes..",
-      "shuffleSeat": "Changer de siège"
+      "shuffleSeat": "Changer de siège",
+      "teleport_level_select": "Go To Level #%s",
+      "teleport_current_level_indication": "(You're Here)"
    },
    "actions": {
       "push_vehicle": "Appuyez sur [~g~MAJ~w~] et [~g~E~w~] pour pousser le véhicule jusqu'à relâchement de [~g~MAJ~w~]",
